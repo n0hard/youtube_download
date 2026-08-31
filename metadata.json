@@ -1,0 +1,7 @@
+{
+  "name": "YouTube Playlist Downloader Web",
+  "description": "Веб-сайт для скачивания и пакетной выгрузки плейлистов с YouTube (MP4 / MP3), экспорта M3U/TXT, готовый для деплоя на GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
